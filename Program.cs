@@ -121,8 +121,7 @@ static void ObtenerDatos(List<Persona> listaPersonas){
 
 static void BuscarPersona(List<Persona> listaPersonas){
 
-    Console.WriteLine("Que dni estas buscando?");
-    int dniBuscado = int.Parse(Console.ReadLine());
+    int dniBuscado = IngresarInt("Cual es el dni de la persona buscada?");
     bool existe = false;
 
     foreach (Persona item in listaPersonas)
