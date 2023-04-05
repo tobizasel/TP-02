@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "tp02__zaselsky/1.0.0": {
+        "runtime": {
+          "tp02__zaselsky.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tp02__zaselsky/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
